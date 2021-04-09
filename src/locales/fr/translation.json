@@ -17,7 +17,14 @@
     "form": {
       "email": "Courriel",
       "postalCode": "Code postal",
-      "submit": "Soumettre"
+      "submit": "Soumettre",
+      "email_error": "Veuillez entrer une adresse courriel valide",
+      "postalCode_error": "Veuillez entrer un code postal valide"
     }
+  },
+  "confirmation": {
+    "title": "Vos informations",
+    "email": "Votre adresse courriel:",
+    "postalCode": "Votre code postal:"
   }
 }
